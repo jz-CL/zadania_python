@@ -15,6 +15,7 @@ def sweap(vl):
 
     counter = 0
 
+
     for v in vl:
         if counter < 1:
             v_min = v
